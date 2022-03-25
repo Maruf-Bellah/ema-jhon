@@ -1,0 +1,33 @@
+.shoeCart img{
+width: 100%;
+padding: 7px;
+border-radius: 10px;
+ 
+}
+.shoeCart{
+   
+     width: 280px;
+     height: 470px;
+     border: 1px solid gray;
+     border-radius: 7px;
+     position: relative;
+
+}
+.name-info{
+     padding: 0px 8px;
+}
+.shoe-info{
+     line-height: 5px;
+     padding: 8px;
+}
+.cart-info{
+     position: absolute;
+     bottom: 0px;
+     width: 100%;
+     border-radius: 0px 0px 10px 10px ;
+     border: none;
+     background-color: #FFE0B3;
+     padding-top: 10px;
+     display: flex;
+     justify-content: center;
+}
